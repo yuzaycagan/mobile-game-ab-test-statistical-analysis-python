@@ -2,11 +2,11 @@
 
 
 
-\# Mobile Game A/B Test – Retention Optimization Case Study
+# Mobile Game A/B Test – Retention Optimization Case Study
 
 
 
-\## Objective
+## Objective
 
 
 
@@ -14,19 +14,19 @@ Evaluate whether moving the progression gate from level 40 to level 30 improves 
 
 
 
-\## Dataset
+## Dataset
 
 
 
-\* ~90,000 users
+* ~90,000 users
 
-\* Randomly assigned to two variants
+* Randomly assigned to two variants
 
-\* Key metric: retention\_7
+* Key metric: retention\_7
 
 
 
-\## Overall Results
+## Overall Results
 
 
 
@@ -40,13 +40,13 @@ Evaluate whether moving the progression gate from level 40 to level 30 improves 
 
 
 
-\* Absolute lift: +0.82pp
+* Absolute lift: +0.82pp
 
-\* Relative lift: +4.5%
+* Relative lift: +4.5%
 
-\* p-value: 0.0015
+* p-value: 0.0015
 
-\* 95% CI: +0.31pp to +1.33pp
+* 95% CI: +0.31pp to +1.33pp
 
 
 
@@ -54,11 +54,11 @@ Evaluate whether moving the progression gate from level 40 to level 30 improves 
 
 
 
-\## Segment Analysis
+## Segment Analysis
 
 
 
-Mid-engagement users (16–100 rounds) show the strongest impact:
+Mid-engagement users (16–100 rounds) show the strongest impact
 
 
 
@@ -76,7 +76,7 @@ p < 0.001
 
 
 
-\## Key Insight
+## Key Insight
 
 
 
@@ -88,7 +88,7 @@ The retention uplift is primarily driven by mid-engagement users, suggesting tha
 
 
 
-\## Business Impact
+## Business Impact
 
 
 
@@ -99,4 +99,5 @@ At 1M monthly installs:
 
 
 ---
+
 
