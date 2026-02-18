@@ -1,4 +1,3 @@
----
 
 
 
@@ -50,7 +49,7 @@ Evaluate whether moving the progression gate from level 40 to level 30 improves 
 
 
 
----
+
 
 
 
@@ -72,7 +71,7 @@ p < 0.001
 
 
 
----
+
 
 
 
@@ -84,7 +83,7 @@ The retention uplift is primarily driven by mid-engagement users, suggesting tha
 
 
 
----
+
 
 
 
@@ -98,6 +97,6 @@ At 1M monthly installs:
 
 
 
----
+
 
 
