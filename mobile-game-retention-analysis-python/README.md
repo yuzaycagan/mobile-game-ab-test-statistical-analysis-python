@@ -29,13 +29,10 @@ Evaluate whether moving the progression gate from level 40 to level 30 improves 
 
 
 
-| Version | Retention\_7 |
-
-| ------- | ----------- |
-
-| gate\_30 | 19.02%      |
-
-| gate\_40 | 18.20%      |
+| Version | Retention_7 |
+|---------|------------|
+| gate_30 | 19.02%     |
+| gate_40 | 18.20%     |
 
 
 
@@ -94,6 +91,7 @@ The retention uplift is primarily driven by mid-engagement users, suggesting tha
 At 1M monthly installs:
 
 +8,200 additional retained users at Day-7.
+
 
 
 
