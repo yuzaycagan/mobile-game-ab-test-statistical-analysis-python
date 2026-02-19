@@ -64,7 +64,7 @@ p < 0.001
 
 
 
-![Retention Lift by Segment](images/segment_lift.png)
+![Retention Lift by Segment](mobile-game-ab-test-statistical-analysis-python/images/segment_lift.png)
 
 
 
